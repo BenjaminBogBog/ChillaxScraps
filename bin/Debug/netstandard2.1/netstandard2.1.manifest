@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3614126310
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modassets
+      Dependencies: {}
+    Info_1:
+      Name: chillaxbundle
+      Dependencies: {}

@@ -1,0 +1,40 @@
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.csproj.AssemblyReference.cache
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\PluginInfo.cs
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.AssemblyInfoInputs.cache
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.AssemblyInfo.cs
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.csproj.CoreCompileInputs.cache
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ChillaxMods.deps.json
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ChillaxMods.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ChillaxMods.pdb
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.pdb
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\LethalLib.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\LethalThings.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.csproj.CopyComplete
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.Netcode.Components.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+E:\Document\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ChillaxMods.deps.json
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ChillaxMods.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ChillaxMods.pdb
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\LethalLib.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\LethalThings.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.Netcode.Components.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.csproj.AssemblyReference.cache
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\PluginInfo.cs
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.AssemblyInfoInputs.cache
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.AssemblyInfo.cs
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.csproj.CoreCompileInputs.cache
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxM.C53ED518.Up2Date
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.pdb

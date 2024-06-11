@@ -1,0 +1,13 @@
+{
+    "name": "ChillaxSCRAPS",
+    "author": "BogBog",
+    "version_number": "0.7.0",
+    "website_url": "",
+    "description": "**NEW** UNO REVERSE CARD and **HOT** DEATH NOTE ITEM : Adds additional scraps to mess with your friends and enhance gameplay experience, originally planned for Chillax friend group members, but feel free to use it as you like!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-HookGenPatcher-0.0.5",
+		"Evaisa-LethalLib-0.13.2",
+    "Evaisa-LethalThings-0.9.4"
+    ]
+}

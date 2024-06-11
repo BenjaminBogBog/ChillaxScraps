@@ -1,0 +1,283 @@
+ManifestFileVersion: 0
+CRC: 221185837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dbfc0a0e030878a7cb04a4a0e719487
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6dc4cc68625bf9280d1c8b6e4415bd10
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9dbfc0a0e030878a7cb04a4a0e719487
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e47a20a28c3465c9e978f827ff3840ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 29359734, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 597843118, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 366053617, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 763315406, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: -1590472776, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: -1280261558, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 1488341368, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 1685395392, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: -958414845, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 1817663783, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: -836051670, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: -1106585839, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0cf24d2ccc3b7eab72048d0f57c437, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c036e7754dd14e0ad4f62f3f282d21c3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BitArray128
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.HDPhysicalCamera
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteFrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteLightLoopSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Chillax/ChillaxMods/FreddyFastBear/Is that Freddy Fazbear_.mp3
+- Assets/Chillax/ChillaxMods/DeathDanceNote/HEYYEYAAEYAAAEYAEYAA (2021).mp3
+- Assets/Chillax/ChillaxMods/DeathNote/DeathNote.prefab
+- Assets/Chillax/ChillaxMods/Nokia/Nokia.asset
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Death Note.ttf
+- Assets/Chillax/ChillaxMods/DeathNote/DeathNoteCanvas.prefab
+- Assets/Chillax/ChillaxMods/UnoReverse/reverse-uno-card/source/Reverse/BlueUno.mat
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/DeathNote.obj
+- Assets/Chillax/ChillaxMods/Nokia/Nokia.prefab
+- Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.prefab
+- Assets/Chillax/ChillaxMods/SuperSneakers/Super Sneakers.obj
+- Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.blend
+- Assets/Chillax/ChillaxMods/DeathNote/death_note_d.png
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/NoteBook.mat
+- Assets/Chillax/ChillaxMods/SuperSneakers/main.png
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.anim
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Aoe.prefab
+- Assets/Chillax/ChillaxMods/TotemOfUndying/totem.fbx
+- Assets/Chillax/ChillaxMods/Nokia/NokiaIcon.png
+- Assets/Chillax/ChillaxMods/Froggy Chair/froggychair.png
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/Notebook.png
+- Assets/Chillax/ChillaxMods/FreddyFastBear/OLD_FREDDY.fbx
+- Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.mat
+- Assets/Chillax/ChillaxMods/DeathNote/DeathNote.asset
+- Assets/Chillax/ChillaxMods/Boink/Boink.prefab
+- Assets/Chillax/ChillaxMods/Cup Noodle/EatSFX.wav
+- Assets/Chillax/ChillaxMods/Moai/moai slide.wav
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeeting.asset
+- Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/AngryBirdsRedsMask.obj
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/st,small,507x507-pad,600x600,f8f8f8.jpg
+- Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.prefab
+- Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
+- Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.prefab
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DIAMOND MQT - GUCCI BELT ft. YOUNGOHM
+  ,FIIXD ,YOUNGGU (Prod. By SIXKY) [Official Music Video].mp3
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/Among Us (Emergency Meeting) - Sound
+  Effect (HD).mp3
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DanceNotebook.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/Notebook.png
+- Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.prefab
+- Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyFastBear.prefab
+- Assets/Chillax/ChillaxMods/Moai/Moai.prefab
+- Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Metallic.png
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/PlayerName.prefab
+- Assets/Chillax/ChillaxMods/DeathNote/Death Note SDF.asset
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/meeting2.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Glow.prefab
+- Assets/Chillax/ChillaxMods/FreddyFastBear/FreddySS.png
+- Assets/Chillax/ChillaxMods/Boink/Boink.asset
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DeathNoteCanvas.prefab
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.controller
+- Assets/Chillax/ChillaxMods/UnoReverse/reverse-uno-card/source/Reverse/RedUno.mat
+- Assets/Chillax/ChillaxMods/Moai/moai thud.wav
+- Assets/Chillax/ChillaxMods/SuperSneakers/59517.png
+- Assets/Chillax/ChillaxMods/Nokia/Im Strokin Meme Sound Effect  Soundboard Link.mp3
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/DeathNote.mat
+- Assets/Chillax/ChillaxMods/Froggy Chair/Froggy Chair.asset
+- Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathDanceNote.mat
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeetingCanvas.prefab
+- Assets/Chillax/ChillaxMods/Froggy Chair/Froggy Chair.prefab
+- Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.mat
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeeting.prefab
+- Assets/Chillax/ChillaxMods/TotemOfUndying/Totem.png
+- Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Roughness.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.asset
+- Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Normal.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Page Turn Sound Effect!.wav
+- Assets/Chillax/ChillaxMods/UnoReverse/UnoReverse.asset
+- Assets/Chillax/ChillaxMods/TotemOfUndying/images (3).jpg
+- Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.asset
+- Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.asset
+- Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathNote.obj
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Death Note SDF.asset
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyButton.fbx
+- Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/bird.png
+- Assets/Chillax/ChillaxMods/Boink/Boink.wav
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/meeting1.png
+- Assets/Chillax/ChillaxMods/DeathNote/Death Note.ttf
+- Assets/Chillax/ChillaxMods/DeathNote/Death Note Heart Attack Sound Effect.wav
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyButton.png
+- Assets/Chillax/ChillaxMods/Moai/moai.png
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.controller
+- Assets/Chillax/ChillaxMods/DeathNote/Page Turn Sound Effect!.wav
+- Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/Angrybirdsredmask1Tex.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.anim
+- Assets/Chillax/ChillaxMods/UnoReverse/UnoReverse.prefab
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Valentino Khan - Pump (Official Audio).mp3
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DanceMusic.prefab
+- Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.asset
+- Assets/Chillax/ChillaxMods/Moai/Moai.asset
+- Assets/Chillax/ChillaxMods/Eevee Plush/Duck Toy Squeak - Sound Effect.mp3
+- Assets/Chillax/ChillaxMods/Eevee Plush/eevee.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/WarningCanvas.prefab
+- Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.asset
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.prefab
+- Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_BaseColor.png
+- Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.asset
+Dependencies: []
