@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Chillax Mods")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05fd5ff5cf4d0541c05342906d8aedc74ee23a03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChillaxMods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChillaxMods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

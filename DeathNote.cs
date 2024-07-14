@@ -235,7 +235,9 @@ namespace Chillax.Bastard.BogBog
                 Destroy(tempSource, 3f); 
             }
             yield return new WaitForSeconds(3f);
-            controller.KillPlayer(Vector3.up * 10);
+
+            Debug.Log("[DEATH NOTE] Kill On Player Client: " + controller.playerUsername + " Is Owner: " + controller.IsOwner);
+            controller.KillPlayer(Vector3.up * 10f);
         }
     }
 }

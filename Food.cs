@@ -41,7 +41,7 @@ namespace Chillax.Bastard.BogBog
 
         private IEnumerator DestroyDelay()
         {
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(0.1f);
             DestroyObjectInHand(playerHeldBy);
         }
     }

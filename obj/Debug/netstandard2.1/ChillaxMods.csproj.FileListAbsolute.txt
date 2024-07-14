@@ -38,3 +38,16 @@ D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard
 D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxM.C53ED518.Up2Date
 D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.dll
 D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.pdb
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Facepunch.Steamworks.Win64.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.RenderPipelines.HighDefinition.Runtime.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\DissonanceVoip.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Facepunch Transport for Netcode for GameObjects.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\ClientNetworkTransform.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\bin\Debug\netstandard2.1\Unity.Timeline.dll
+D:\Game Development\ModProjects\UpdatedChillax\ChillaxMods\obj\Debug\netstandard2.1\ChillaxMods.sourcelink.json

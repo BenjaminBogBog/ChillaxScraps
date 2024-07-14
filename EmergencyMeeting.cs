@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using Unity.Netcode;
 using ChillaxMods;
+using System.Collections;
 
 namespace Chillax.Bastard.BogBog
 {
@@ -18,7 +19,6 @@ namespace Chillax.Bastard.BogBog
         {
             if(_used) return;
             if (!playerHeldBy.isInsideFactory) return;
-            base.ItemActivate(used, buttonDown);
             Vector3 position = playerHeldBy.transform.position;
 
             List<PlayerControllerB> players = GetOtherPlayers();
@@ -26,6 +26,10 @@ namespace Chillax.Bastard.BogBog
             _used = true;
             Invoke(nameof(Reset), 5f);
             StartMeetingServerRpc(players.Select(p => p.playerClientId).ToArray(), position);
+
+            StartCoroutine(DestroyDelay());
+
+            base.ItemActivate(used, buttonDown);
         }
 
         private void Reset()
@@ -79,6 +83,13 @@ namespace Chillax.Bastard.BogBog
             }
 
             return finalList;
+        }
+
+        private IEnumerator DestroyDelay()
+        {
+            yield return new WaitForSeconds(0.1f);
+
+            DestroyObjectInHand(playerHeldBy);
         }
     }
 }
