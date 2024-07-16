@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3002795142
+CRC: 3595343057
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 341648112e7b77030dcb26209fdeca9f
+    Hash: fa20982611ef94703dbbdd628eda6421
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6dc4cc68625bf9280d1c8b6e4415bd10
+    Hash: 67d55f45ef1dfc446930da174553e000
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 341648112e7b77030dcb26209fdeca9f
+    Hash: fa20982611ef94703dbbdd628eda6421
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -59,7 +59,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: c7b430c469db0421764b70ff9c06bc0d, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04f75356a7e9c978bddc7d568e58a50b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e47a20a28c3465c9e978f827ff3840ff, type: 3}
 - Class: 114
@@ -184,6 +188,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Chillax/ChillaxMods/FreddyFastBear/Is that Freddy Fazbear_.mp3
 - Assets/Chillax/ChillaxMods/DeathDanceNote/HEYYEYAAEYAAAEYAEYAA (2021).mp3
+- Assets/Chillax/ChillaxMods/MasterSword/MasterSword.asset
 - Assets/Chillax/ChillaxMods/DeathNote/DeathNote.prefab
 - Assets/Chillax/ChillaxMods/Nokia/Nokia.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Death Note.ttf
@@ -193,27 +198,44 @@ Assets:
 - Assets/Chillax/ChillaxMods/Nokia/Nokia.prefab
 - Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.prefab
 - Assets/Chillax/ChillaxMods/SuperSneakers/Super Sneakers.obj
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina.png
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/swing-whoosh-110410.mp3
 - Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.blend
 - Assets/Chillax/ChillaxMods/DeathNote/death_note_d.png
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/NoteBook.mat
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/hit-swing-sword-small-2-95566(2).mp3
 - Assets/Chillax/ChillaxMods/SuperSneakers/main.png
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina of Time/i_stex01a_0.png
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.anim
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Aoe.prefab
 - Assets/Chillax/ChillaxMods/TotemOfUndying/totem.fbx
 - Assets/Chillax/ChillaxMods/Nokia/NokiaIcon.png
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina.asset
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/Master Sword.dae
 - Assets/Chillax/ChillaxMods/Froggy Chair/froggychair.png
+- Assets/Chillax/ChillaxMods/Ocarina/34_1.mp3
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/Notebook.png
 - Assets/Chillax/ChillaxMods/FreddyFastBear/OLD_FREDDY.fbx
 - Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.mat
 - Assets/Chillax/ChillaxMods/DeathNote/DeathNote.asset
 - Assets/Chillax/ChillaxMods/Boink/Boink.prefab
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/Blade.mat
 - Assets/Chillax/ChillaxMods/Cup Noodle/EatSFX.wav
 - Assets/Chillax/ChillaxMods/Moai/moai slide.wav
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeeting.asset
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/hit-swing-sword-small-2-95566.mp3
+- Assets/Chillax/ChillaxMods/MasterSword/The Master Sword.prefab
 - Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/AngryBirdsRedsMask.obj
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/st,small,507x507-pad,600x600,f8f8f8.jpg
 - Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.prefab
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/i_ctex04b_5000.png
 - Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.prefab
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DIAMOND MQT - GUCCI BELT ft. YOUNGOHM
   ,FIIXD ,YOUNGGU (Prod. By SIXKY) [Official Music Video].mp3
@@ -225,10 +247,13 @@ Assets:
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyFastBear.prefab
 - Assets/Chillax/ChillaxMods/Moai/Moai.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Metallic.png
-- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina of Time/ocarinaoftime.obj
 - Assets/Chillax/ChillaxMods/DeathDanceNote/PlayerName.prefab
 - Assets/Chillax/ChillaxMods/DeathNote/Death Note SDF.asset
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/meeting2.png
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/i_ctex04a_0.png
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Glow.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddySS.png
 - Assets/Chillax/ChillaxMods/Boink/Boink.asset
@@ -239,6 +264,7 @@ Assets:
 - Assets/Chillax/ChillaxMods/SuperSneakers/59517.png
 - Assets/Chillax/ChillaxMods/Nokia/Im Strokin Meme Sound Effect  Soundboard Link.mp3
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/DeathNote.mat
+- Assets/Chillax/ChillaxMods/Ocarina/eponas-song-ocarina.mp3
 - Assets/Chillax/ChillaxMods/Froggy Chair/Froggy Chair.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathDanceNote.mat
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeetingCanvas.prefab
@@ -255,13 +281,19 @@ Assets:
 - Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.asset
 - Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathNote.obj
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/MasterSwordIcon.png
+- Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
+  3D - Master Sword/i_ctex04c_1000.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Death Note SDF.asset
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyButton.fbx
+- Assets/Chillax/ChillaxMods/Ocarina/song-of-storms-ocarina.mp3
 - Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/bird.png
 - Assets/Chillax/ChillaxMods/Boink/Boink.wav
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/meeting1.png
 - Assets/Chillax/ChillaxMods/DeathNote/Death Note.ttf
 - Assets/Chillax/ChillaxMods/DeathNote/Death Note Heart Attack Sound Effect.wav
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina.prefab
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyButton.png
 - Assets/Chillax/ChillaxMods/Moai/moai.png
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.controller
@@ -275,9 +307,10 @@ Assets:
 - Assets/Chillax/ChillaxMods/Moai/Moai.asset
 - Assets/Chillax/ChillaxMods/Eevee Plush/Duck Toy Squeak - Sound Effect.mp3
 - Assets/Chillax/ChillaxMods/Eevee Plush/eevee.png
-- Assets/Chillax/ChillaxMods/DeathDanceNote/WarningCanvas.prefab
-- Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.prefab
+- Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.asset
+- Assets/Chillax/ChillaxMods/MasterSword/Glow.shadergraph
+- Assets/Chillax/ChillaxMods/DeathDanceNote/WarningCanvas.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_BaseColor.png
 - Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.asset
 Dependencies: []
