@@ -20,7 +20,7 @@ namespace Chillax.Bastard.BogBog
         //"pluginVersion" - is your mod's version. It must be in format 1.2[.3[.4]], that can be parsed by System.Version.
         public const string PluginGuid = "chillax.bastard.mod";
         public const string PluginName = "Chillax Mods";
-        public const string PluginVersion = "0.7.3";
+        public const string PluginVersion = "0.7.4";
 
         public static readonly Harmony harmony = new Harmony("chillax.bastard.mod");
 

@@ -25,9 +25,13 @@ namespace Chillax.Bastard.BogBog
         public static ConfigEntry<int> unoReverseCardSpawnChance;
         public static ConfigEntry<bool> enableUnoReverseCard;
 
+        public static ConfigEntry<int> boinkCooldown;
+
         public static void Load()
         {
             boinkSpawnChance = ChillaxModPlugin.config.Bind<int>("Scrap", "Boink", 15, "How much does this Item spawn, higher = more common");
+            boinkCooldown = ChillaxModPlugin.config.Bind<int>("Scrap", "BoinkCooldown", 5, "Boink's cooldown in seconds");
+
             cupNoodleSpawnChance = ChillaxModPlugin.config.Bind<int>("Scrap", "CupNoodle", 15, "How much does this Item spawn, higher = more common");
             freddySpawnChance = ChillaxModPlugin.config.Bind<int>("Scrap", "Freddy", 10, "How much does this Item spawn, higher = more common");
             moaiSpawnChance = ChillaxModPlugin.config.Bind<int>("Scrap", "Moai", 10, "How much does this Item spawn, higher = more common");
@@ -38,6 +42,7 @@ namespace Chillax.Bastard.BogBog
             canUseDeathNote = ChillaxModPlugin.config.Bind<bool>("Death Note", "DeathNoteActive", true, "Can the Death Note be used, turn this off to avoid griefing");
 
             emergencyMeetingChance = ChillaxModPlugin.config.Bind<int>("Scrap", "EmergencyMeeting", 10, "How much does this Item spawn, higher = more common");
+
             superSneakChance = ChillaxModPlugin.config.Bind<int>("Scrap", "SuperSneakers", 15, "How much does this Item spawn, higher = more common");
             totemChance = ChillaxModPlugin.config.Bind<int>("Scrap", "TotemOfUndying", 5, "How much does this Item spawn, higher = more common");
             deathDanceNote = ChillaxModPlugin.config.Bind<int>("Scrap", "DeathDanceNote", 5, "How much does this Item spawn, higher = more common");

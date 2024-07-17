@@ -24,7 +24,7 @@ namespace Chillax.Bastard.BogBog
             List<PlayerControllerB> players = GetOtherPlayers();
 
             _used = true;
-            Invoke(nameof(Reset), 5f);
+            Invoke(nameof(Reset), 5);
             StartMeetingServerRpc(players.Select(p => p.playerClientId).ToArray(), position);
 
             StartCoroutine(DestroyDelay());

@@ -165,6 +165,13 @@ namespace ChillaxMods
             Cursor.lockState = CursorLockMode.None;
         }
 
+        private IEnumerator DestroyDelay()
+        {
+            yield return new WaitForSeconds(0.1f);
+
+            DestroyObjectInHand(playerHeldBy);
+        }
+
         public override void PocketItem()
         {
             base.PocketItem();
@@ -219,6 +226,7 @@ namespace ChillaxMods
             _activated = true;
 
             Invoke(nameof(ResetActivate), transitionTime + danceTime);
+            StartCoroutine(DestroyDelay());
 
             ActivateDeathDanceServerRpc(player.playerClientId);
         }

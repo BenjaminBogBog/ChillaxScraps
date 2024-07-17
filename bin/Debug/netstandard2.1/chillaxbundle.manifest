@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3595343057
+CRC: 506988622
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fa20982611ef94703dbbdd628eda6421
+    Hash: 278d4ea3f4ffd9c92f1f8c7437212431
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 67d55f45ef1dfc446930da174553e000
+    Hash: 32ba33d2662fb4f82dee474ce4df0b1a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fa20982611ef94703dbbdd628eda6421
+    Hash: 278d4ea3f4ffd9c92f1f8c7437212431
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -108,6 +108,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c036e7754dd14e0ad4f62f3f282d21c3, type: 3}
+- Class: 114
+  Script: {fileID: -1858190498, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -218,6 +220,8 @@ Assets:
 - Assets/Chillax/ChillaxMods/Froggy Chair/froggychair.png
 - Assets/Chillax/ChillaxMods/Ocarina/34_1.mp3
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/Notebook.png
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/26.
+  Ocarina ~Zelda_s Lullaby~.mp3
 - Assets/Chillax/ChillaxMods/FreddyFastBear/OLD_FREDDY.fbx
 - Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.mat
 - Assets/Chillax/ChillaxMods/DeathNote/DeathNote.asset
@@ -241,6 +245,8 @@ Assets:
   ,FIIXD ,YOUNGGU (Prod. By SIXKY) [Official Music Video].mp3
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/Among Us (Emergency Meeting) - Sound
   Effect (HD).mp3
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/28.
+  Ocarina ~Epona_s Theme~.mp3
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DanceNotebook.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/Notebook.png
 - Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.prefab
@@ -257,6 +263,8 @@ Assets:
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Glow.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddySS.png
 - Assets/Chillax/ChillaxMods/Boink/Boink.asset
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/82.
+  Ocarina of Time ~Zelda_s Ocarina~.mp3
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DeathNoteCanvas.prefab
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.controller
 - Assets/Chillax/ChillaxMods/UnoReverse/reverse-uno-card/source/Reverse/RedUno.mat
@@ -273,12 +281,18 @@ Assets:
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeeting.prefab
 - Assets/Chillax/ChillaxMods/TotemOfUndying/Totem.png
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Roughness.png
-- Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.asset
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/44.
+  Ocarina ~Song Of Time~.mp3
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Normal.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Page Turn Sound Effect!.wav
 - Assets/Chillax/ChillaxMods/UnoReverse/UnoReverse.asset
 - Assets/Chillax/ChillaxMods/TotemOfUndying/images (3).jpg
 - Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.asset
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/57.
+  Ocarina ~Song of Storms~.mp3
+- Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/35.
+  Ocarina ~Saria_s Song~.mp3
 - Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathNote.obj
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
@@ -298,16 +312,16 @@ Assets:
 - Assets/Chillax/ChillaxMods/Moai/moai.png
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.controller
 - Assets/Chillax/ChillaxMods/DeathNote/Page Turn Sound Effect!.wav
-- Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/Angrybirdsredmask1Tex.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.anim
+- Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/Angrybirdsredmask1Tex.png
 - Assets/Chillax/ChillaxMods/UnoReverse/UnoReverse.prefab
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Valentino Khan - Pump (Official Audio).mp3
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DanceMusic.prefab
 - Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.asset
-- Assets/Chillax/ChillaxMods/Moai/Moai.asset
 - Assets/Chillax/ChillaxMods/Eevee Plush/Duck Toy Squeak - Sound Effect.mp3
-- Assets/Chillax/ChillaxMods/Eevee Plush/eevee.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.prefab
+- Assets/Chillax/ChillaxMods/Eevee Plush/eevee.png
+- Assets/Chillax/ChillaxMods/Moai/Moai.asset
 - Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.asset
 - Assets/Chillax/ChillaxMods/MasterSword/Glow.shadergraph
 - Assets/Chillax/ChillaxMods/DeathDanceNote/WarningCanvas.prefab

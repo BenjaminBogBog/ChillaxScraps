@@ -9,6 +9,17 @@ namespace Chillax.Bastard.BogBog
         private bool push;
         private float _elapsedTime;
 
+        public override void OnNetworkSpawn()
+        {
+            base.OnNetworkSpawn();
+
+            targetForce = Vector3.zero;
+            push = false;
+            _elapsedTime = 0;
+
+            useCooldown = Config.boinkCooldown.Value;
+        }
+
         public override void ItemActivate(bool used, bool buttonDown = true)
         {
             if (playerHeldBy == null) return;
