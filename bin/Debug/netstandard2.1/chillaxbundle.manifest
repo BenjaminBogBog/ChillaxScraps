@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 506988622
+CRC: 2452376923
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 278d4ea3f4ffd9c92f1f8c7437212431
+    Hash: 96ff27c7ccbfab81604d2f2ba4076673
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 32ba33d2662fb4f82dee474ce4df0b1a
+    Hash: ad880605e20c9144ae638dc3fd5f7ec9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 278d4ea3f4ffd9c92f1f8c7437212431
+    Hash: 96ff27c7ccbfab81604d2f2ba4076673
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -75,6 +75,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 29359734, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 114
+  Script: {fileID: -305559072, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
   Script: {fileID: 597843118, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 114
   Script: {fileID: 366053617, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
@@ -87,9 +89,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1488341368, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 114
+  Script: {fileID: 875684601, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
   Script: {fileID: 1685395392, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 114
+  Script: {fileID: 1418980686, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
   Script: {fileID: -958414845, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: 211604842, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
+- Class: 114
+  Script: {fileID: -1858190498, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 114
   Script: {fileID: 1817663783, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 114
@@ -108,8 +118,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c036e7754dd14e0ad4f62f3f282d21c3, type: 3}
-- Class: 114
-  Script: {fileID: -1858190498, guid: 60a1dda09e4e72f4496eda98c48c8109, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -197,15 +205,23 @@ Assets:
 - Assets/Chillax/ChillaxMods/DeathNote/DeathNoteCanvas.prefab
 - Assets/Chillax/ChillaxMods/UnoReverse/reverse-uno-card/source/Reverse/BlueUno.mat
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/DeathNote.obj
-- Assets/Chillax/ChillaxMods/Nokia/Nokia.prefab
+- Assets/Chillax/ChillaxMods/CursedRedDuck/RedDuckIcon.png
 - Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.prefab
+- Assets/Chillax/ChillaxMods/CursedBlueDuck/Rubber Duck/Duckmat.mat
+- Assets/Chillax/ChillaxMods/Nokia/Nokia.prefab
 - Assets/Chillax/ChillaxMods/SuperSneakers/Super Sneakers.obj
+- Assets/Chillax/ChillaxMods/GoldDuck/GoldDuck.prefab
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina.png
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
   3D - Master Sword/swing-whoosh-110410.mp3
+- Assets/Chillax/ChillaxMods/RedDuck/Rubber Duck/RubberDuck_Blue.png
 - Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.blend
 - Assets/Chillax/ChillaxMods/DeathNote/death_note_d.png
+- Assets/Chillax/ChillaxMods/CursedRedDuck/Rubber Duck/RubberDuck_Red.png
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/NoteBook.mat
+- Assets/Chillax/ChillaxMods/BlueDuck/BlueDuck.asset
+- Assets/Chillax/ChillaxMods/BlueDuck/Blue Duck.prefab
+- Assets/Chillax/ChillaxMods/GoldDuck/Rubber Duck/RubberDuck_Blue.png
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
   3D - Master Sword/hit-swing-sword-small-2-95566(2).mp3
 - Assets/Chillax/ChillaxMods/SuperSneakers/main.png
@@ -213,16 +229,20 @@ Assets:
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.anim
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Aoe.prefab
 - Assets/Chillax/ChillaxMods/TotemOfUndying/totem.fbx
+- Assets/Chillax/ChillaxMods/CursedRedDuck/Rubber Duck/RubberDuck_BaseColor.png
 - Assets/Chillax/ChillaxMods/Nokia/NokiaIcon.png
+- Assets/Chillax/ChillaxMods/BlueDuck/Boink.wav
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina.asset
+- Assets/Chillax/ChillaxMods/CursedBlueDuck/CursedBlueDuck.asset
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
   3D - Master Sword/Master Sword.dae
 - Assets/Chillax/ChillaxMods/Froggy Chair/froggychair.png
 - Assets/Chillax/ChillaxMods/Ocarina/34_1.mp3
-- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/Notebook.png
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/26.
   Ocarina ~Zelda_s Lullaby~.mp3
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/Notebook.png
 - Assets/Chillax/ChillaxMods/FreddyFastBear/OLD_FREDDY.fbx
+- Assets/Chillax/ChillaxMods/RedDuck/RedDuck.asset
 - Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.mat
 - Assets/Chillax/ChillaxMods/DeathNote/DeathNote.asset
 - Assets/Chillax/ChillaxMods/Boink/Boink.prefab
@@ -234,65 +254,87 @@ Assets:
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
   3D - Master Sword/hit-swing-sword-small-2-95566.mp3
 - Assets/Chillax/ChillaxMods/MasterSword/The Master Sword.prefab
+- Assets/Chillax/ChillaxMods/CursedRedDuck/CursedRedDuck.asset
 - Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/AngryBirdsRedsMask.obj
+- Assets/Chillax/ChillaxMods/CursedRedDuck/Rubber Duck/RubberDuck_Blue.png
+- Assets/Chillax/ChillaxMods/CursedBlueDuck/Boink.wav
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/st,small,507x507-pad,600x600,f8f8f8.jpg
 - Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.prefab
-- Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
+- Assets/Chillax/ChillaxMods/GoldDuck/Boink.wav
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
   3D - Master Sword/i_ctex04b_5000.png
-- Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.prefab
+- Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DIAMOND MQT - GUCCI BELT ft. YOUNGOHM
   ,FIIXD ,YOUNGGU (Prod. By SIXKY) [Official Music Video].mp3
-- Assets/Chillax/ChillaxMods/EmergencyMeeting/Among Us (Emergency Meeting) - Sound
-  Effect (HD).mp3
+- Assets/Chillax/ChillaxMods/RedDuck/Rubber Duck/Duckmat.mat
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/28.
   Ocarina ~Epona_s Theme~.mp3
-- Assets/Chillax/ChillaxMods/DeathDanceNote/DanceNotebook.png
+- Assets/Chillax/ChillaxMods/CursedRedDuck/Rubber Duck/RubberDuck.obj
+- Assets/Chillax/ChillaxMods/BlueDuck/Rubber Duck/Duckmat.mat
+- Assets/Chillax/ChillaxMods/EmergencyMeeting/Among Us (Emergency Meeting) - Sound
+  Effect (HD).mp3
+- Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.prefab
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/textures/Notebook.png
 - Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyFastBear.prefab
+- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
 - Assets/Chillax/ChillaxMods/Moai/Moai.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Metallic.png
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina of Time/ocarinaoftime.obj
 - Assets/Chillax/ChillaxMods/DeathDanceNote/PlayerName.prefab
+- Assets/Chillax/ChillaxMods/CursedBlueDuck/Rubber Duck/RubberDuck_BaseColor.png
 - Assets/Chillax/ChillaxMods/DeathNote/Death Note SDF.asset
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/meeting2.png
+- Assets/Chillax/ChillaxMods/GoldDuck/Rubber Duck/RubberDuck.obj
+- Assets/Chillax/ChillaxMods/RedDuck/Rubber Duck/RubberDuck_BaseColor.png
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
   3D - Master Sword/i_ctex04a_0.png
-- Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/textures/DeathNoteUV.png
-- Assets/Chillax/ChillaxMods/DeathDanceNote/Glow.prefab
+- Assets/Chillax/ChillaxMods/RedDuck/RedDuckIcon.png
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddySS.png
-- Assets/Chillax/ChillaxMods/Boink/Boink.asset
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Glow.prefab
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/82.
   Ocarina of Time ~Zelda_s Ocarina~.mp3
+- Assets/Chillax/ChillaxMods/RedDuck/Rubber Duck/RubberDuck_Red.png
+- Assets/Chillax/ChillaxMods/Boink/Boink.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DeathNoteCanvas.prefab
+- Assets/Chillax/ChillaxMods/RedDuck/Red Duck.prefab
+- Assets/Chillax/ChillaxMods/CursedBlueDuck/Rubber Duck/RubberDuck_Blue.png
+- Assets/Chillax/ChillaxMods/CursedRedDuck/Rubber Duck/Duckmat.mat
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.controller
 - Assets/Chillax/ChillaxMods/UnoReverse/reverse-uno-card/source/Reverse/RedUno.mat
 - Assets/Chillax/ChillaxMods/Moai/moai thud.wav
 - Assets/Chillax/ChillaxMods/SuperSneakers/59517.png
 - Assets/Chillax/ChillaxMods/Nokia/Im Strokin Meme Sound Effect  Soundboard Link.mp3
 - Assets/Chillax/ChillaxMods/DeathNote/death-note-anime-book-fanart/source/DeathNote.mat
-- Assets/Chillax/ChillaxMods/Ocarina/eponas-song-ocarina.mp3
+- Assets/Chillax/ChillaxMods/BlueDuck/Rubber Duck/RubberDuck.obj
 - Assets/Chillax/ChillaxMods/Froggy Chair/Froggy Chair.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathDanceNote.mat
+- Assets/Chillax/ChillaxMods/Ocarina/eponas-song-ocarina.mp3
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeetingCanvas.prefab
 - Assets/Chillax/ChillaxMods/Froggy Chair/Froggy Chair.prefab
+- Assets/Chillax/ChillaxMods/DeathDanceNote/DanceNotebook.png
 - Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.mat
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeeting.prefab
+- Assets/Chillax/ChillaxMods/CursedRedDuck/impactPlate_heavy_002.ogg
 - Assets/Chillax/ChillaxMods/TotemOfUndying/Totem.png
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Roughness.png
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/44.
   Ocarina ~Song Of Time~.mp3
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_Normal.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.asset
+- Assets/Chillax/ChillaxMods/BlueDuck/Rubber Duck/RubberDuck_BaseColor.png
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Page Turn Sound Effect!.wav
+- Assets/Chillax/ChillaxMods/GoldDuck/Rubber Duck/RubberDuck_BaseColor.png
 - Assets/Chillax/ChillaxMods/UnoReverse/UnoReverse.asset
 - Assets/Chillax/ChillaxMods/TotemOfUndying/images (3).jpg
 - Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.asset
+- Assets/Chillax/ChillaxMods/BlueDuck/BlueDuckIcon.png
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/57.
   Ocarina ~Song of Storms~.mp3
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina Audio-20240717T123252Z-001/Ocarina Audio/35.
   Ocarina ~Saria_s Song~.mp3
+- Assets/Chillax/ChillaxMods/GoldDuck/Rubber Duck/RubberDuck_Gold.png
+- Assets/Chillax/ChillaxMods/CursedBlueDuck/Cursed Blue Duck.prefab
 - Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.asset
 - Assets/Chillax/ChillaxMods/DeathDanceNote/death-note-anime-book-fanart/source/DeathNote.obj
 - Assets/Chillax/ChillaxMods/MasterSword/3DS - The Legend of Zelda Ocarina of Time
@@ -303,8 +345,12 @@ Assets:
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyButton.fbx
 - Assets/Chillax/ChillaxMods/Ocarina/song-of-storms-ocarina.mp3
 - Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/bird.png
+- Assets/Chillax/ChillaxMods/GoldDuck/Rubber Duck/Duckmat.mat
+- Assets/Chillax/ChillaxMods/CursedRedDuck/Cursed Red Duck.prefab
 - Assets/Chillax/ChillaxMods/Boink/Boink.wav
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/meeting1.png
+- Assets/Chillax/ChillaxMods/GoldDuck/GoldDuckIcon.png
+- Assets/Chillax/ChillaxMods/BlueDuck/Rubber Duck/RubberDuck_Blue.png
 - Assets/Chillax/ChillaxMods/DeathNote/Death Note.ttf
 - Assets/Chillax/ChillaxMods/DeathNote/Death Note Heart Attack Sound Effect.wav
 - Assets/Chillax/ChillaxMods/Ocarina/Ocarina.prefab
@@ -312,8 +358,9 @@ Assets:
 - Assets/Chillax/ChillaxMods/Moai/moai.png
 - Assets/Chillax/ChillaxMods/EmergencyMeeting/Meeting.controller
 - Assets/Chillax/ChillaxMods/DeathNote/Page Turn Sound Effect!.wav
-- Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.anim
 - Assets/Chillax/ChillaxMods/Boink/Angry Birds Red's Mask/Angrybirdsredmask1Tex.png
+- Assets/Chillax/ChillaxMods/DeathDanceNote/Warning.anim
+- Assets/Chillax/ChillaxMods/RedDuck/Rubber Duck/RubberDuck.obj
 - Assets/Chillax/ChillaxMods/UnoReverse/UnoReverse.prefab
 - Assets/Chillax/ChillaxMods/DeathDanceNote/Valentino Khan - Pump (Official Audio).mp3
 - Assets/Chillax/ChillaxMods/DeathDanceNote/DanceMusic.prefab
@@ -326,5 +373,6 @@ Assets:
 - Assets/Chillax/ChillaxMods/MasterSword/Glow.shadergraph
 - Assets/Chillax/ChillaxMods/DeathDanceNote/WarningCanvas.prefab
 - Assets/Chillax/ChillaxMods/FreddyFastBear/FreddyPlush_UVs_Mesh_lambert1_BaseColor.png
+- Assets/Chillax/ChillaxMods/GoldDuck/GoldDuck.asset
 - Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.asset
 Dependencies: []

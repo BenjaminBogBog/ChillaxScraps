@@ -5,6 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using LethalThings.Extensions;
 using Unity.Netcode;
 using UnityEngine;
 
@@ -34,6 +35,7 @@ namespace ChillaxMods
         private bool _opened;
 
         private NetworkVariable<int> playerDancing = new NetworkVariable<int>(-1);
+        private NetworkVariable<bool> canPickUp = new NetworkVariable<bool>(false);
 
         [SerializeField] private float transitionTime;
         [SerializeField] private float danceTime;
@@ -49,6 +51,20 @@ namespace ChillaxMods
         public override void OnNetworkSpawn()
         {
             base.OnNetworkSpawn();
+
+            if(IsHost)
+                canPickUp.Value = true;
+
+            canPickUp.OnValueChanged += (oldValue, newValue) =>
+            {
+                grabbableToEnemies  = newValue;
+                grabbable = newValue;
+
+                if (!newValue && playerHeldBy != null)
+                {
+                    playerHeldBy.DropItem(this);
+                }
+            };
 
             _opened = false;
             _spawned = true;
@@ -66,6 +82,9 @@ namespace ChillaxMods
         public override void Update()
         {
             base.Update();
+
+            grabbable = canPickUp.Value;
+            grabbableToEnemies = canPickUp.Value;
 
             if (!_spawned) return;
 
@@ -167,9 +186,41 @@ namespace ChillaxMods
 
         private IEnumerator DestroyDelay()
         {
-            yield return new WaitForSeconds(0.1f);
+            playerHeldBy.DropItem(this);
 
-            DestroyObjectInHand(playerHeldBy);
+            if (IsHost)
+            {
+                canPickUp.Value = false;
+            }
+            else
+            {
+                DisablePickupServerRpc();
+            }
+
+
+            yield return new WaitForSeconds(transitionTime + danceTime);
+
+            if (IsHost)
+            {
+                NetworkObject.Despawn(true);
+            }
+            else
+            {
+                DestroyServerRpc();
+            }
+            
+        }
+
+        [ServerRpc(RequireOwnership = false)]
+        private void DisablePickupServerRpc()
+        {
+            canPickUp.Value = false;
+        }
+
+        [ServerRpc(RequireOwnership = false)]
+        private void DestroyServerRpc()
+        {
+            NetworkObject.Despawn(true);
         }
 
         public override void PocketItem()

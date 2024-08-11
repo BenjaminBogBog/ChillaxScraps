@@ -1,8 +1,11 @@
-﻿using System;
+﻿using LethalThings.Extensions;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
+using Unity.Netcode;
 using UnityEngine;
+using static System.TimeZoneInfo;
 
 namespace ChillaxMods
 {
@@ -12,11 +15,27 @@ namespace ChillaxMods
 
         private int _holdCount = 0;
 
+        private NetworkVariable<bool> canPickUp = new NetworkVariable<bool>(false);
+
         public override void OnNetworkSpawn()
         {
             base.OnNetworkSpawn();
 
             _spawned = true;
+
+            if (IsHost)
+                canPickUp.Value = true;
+
+            canPickUp.OnValueChanged += (oldValue, newValue) =>
+            {
+                grabbableToEnemies = newValue;
+                grabbable = newValue;
+
+                if (!newValue && playerHeldBy != null)
+                {
+                    playerHeldBy.DropItem(this);
+                }
+            };
 
             _holdCount = 0;
         }
@@ -62,8 +81,41 @@ namespace ChillaxMods
 
         private IEnumerator DestroyDelay()
         {
-            yield return new WaitForSeconds(0.1f);
-            DestroyObjectInHand(playerHeldBy);
+            playerHeldBy.DropItem(this);
+
+            if (IsHost)
+            {
+                canPickUp.Value = false;
+            }
+            else
+            {
+                DisablePickupServerRpc();
+            }
+
+
+            yield return new WaitForSeconds(1f);
+
+            if (IsHost)
+            {
+                NetworkObject.Despawn(true);
+            }
+            else
+            {
+                DestroyServerRpc();
+            }
+
+        }
+
+        [ServerRpc(RequireOwnership = false)]
+        private void DisablePickupServerRpc()
+        {
+            canPickUp.Value = false;
+        }
+
+        [ServerRpc(RequireOwnership = false)]
+        private void DestroyServerRpc()
+        {
+            NetworkObject.Despawn(true);
         }
     }
 }

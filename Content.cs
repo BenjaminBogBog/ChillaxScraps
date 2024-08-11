@@ -37,17 +37,23 @@ namespace Chillax.Bastard.BogBog
       {
         (Content.CustomItem) Content.CustomScrap.Add("Boink", "Assets/Chillax/ChillaxMods/Boink/Boink.asset", Levels.LevelTypes.All, Config.boinkSpawnChance.Value),
         (Content.CustomItem) Content.CustomScrap.Add("MamaMooSup", "Assets/Chillax/ChillaxMods/Cup Noodle/Cup Noodle.asset", Levels.LevelTypes.All, Config.cupNoodleSpawnChance.Value),
-        Content.CustomScrap.Add("Freddy", "Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.asset", Levels.LevelTypes.All, Config.freddySpawnChance.Value),
+        //Content.CustomScrap.Add("Freddy", "Assets/Chillax/ChillaxMods/FreddyFastBear/Freddy.asset", Levels.LevelTypes.All, Config.freddySpawnChance.Value),
         Content.CustomScrap.Add("Moai", "Assets/Chillax/ChillaxMods/Moai/Moai.asset", Levels.LevelTypes.All, Config.moaiSpawnChance.Value),
         Content.CustomScrap.Add("Froggy", "Assets/Chillax/ChillaxMods/Froggy Chair/Froggy Chair.asset", Levels.LevelTypes.All, Config.froggySpawnChance.Value),
         Content.CustomScrap.Add("Eevee", "Assets/Chillax/ChillaxMods/Eevee Plush/Eevee.asset", Levels.LevelTypes.All, Config.eeveeSpawnChance.Value),
         Content.CustomScrap.Add("DeathNote", "Assets/Chillax/ChillaxMods/DeathNote/DeathNote.asset", Levels.LevelTypes.All, Config.deathNoteSpawnChance.Value),
         Content.CustomScrap.Add("EmergencyMeeting", "Assets/Chillax/ChillaxMods/EmergencyMeeting/EmergencyMeeting.asset", Levels.LevelTypes.All, Config.emergencyMeetingChance.Value),
         Content.CustomScrap.Add("SuperSneakers", "Assets/Chillax/ChillaxMods/SuperSneakers/SuperSneakers.asset", Levels.LevelTypes.All, Config.superSneakChance.Value),
-        Content.CustomScrap.Add("TotemOfUndying", "Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.asset", Levels.LevelTypes.All, Config.totemChance.Value),
+        //Content.CustomScrap.Add("TotemOfUndying", "Assets/Chillax/ChillaxMods/TotemOfUndying/TotemOfUndying.asset", Levels.LevelTypes.All, Config.totemChance.Value),
         Content.CustomScrap.Add("DeathDanceNote", "Assets/Chillax/ChillaxMods/DeathDanceNote/DeathDanceNote.asset", Levels.LevelTypes.All, Config.deathDanceNote.Value),
         Content.CustomScrap.Add("MasterSword", "Assets/Chillax/ChillaxMods/MasterSword/MasterSword.asset", Levels.LevelTypes.All, Config.masterSword.Value),
         Content.CustomScrap.Add("Ocarina", "Assets/Chillax/ChillaxMods/Ocarina/Ocarina.asset", Levels.LevelTypes.All, Config.ocarinaSpawn.Value),
+        Content.CustomScrap.Add("BlueDuck", "Assets/Chillax/ChillaxMods/BlueDuck/BlueDuck.asset", Levels.LevelTypes.All, Config.blueDuckSpawnChance.Value),
+        Content.CustomScrap.Add("RedDuck", "Assets/Chillax/ChillaxMods/RedDuck/RedDuck.asset", Levels.LevelTypes.All, Config.redDuckSpawnChance.Value),
+        Content.CustomScrap.Add("GoldDuck", "Assets/Chillax/ChillaxMods/GoldDuck/GoldDuck.asset", Levels.LevelTypes.All, Config.goldDuckSpawnChance.Value),
+        Content.CustomScrap.Add("CursedBlueDuck", "Assets/Chillax/ChillaxMods/CursedBlueDuck/CursedBlueDuck.asset", Levels.LevelTypes.All, Config.blueDuckSpawnChance.Value),
+        Content.CustomScrap.Add("CursedRedDuck", "Assets/Chillax/ChillaxMods/CursedRedDuck/CursedRedDuck.asset", Levels.LevelTypes.All, Config.redDuckSpawnChance.Value)
+
       };
 
       if (Config.enableUnoReverseCard.Value)

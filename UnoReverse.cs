@@ -33,11 +33,12 @@ public class UnoReverse : NoisemakerProp
         
         playerList = new List<PlayerControllerB>();
         _used = false;
+        _isRed = false;
 
         if (IsHost)
         {
             bool chance = Random.Range(0, 100f) > 50;
-            _isRed = chance;
+            _isRed = false;
             ReplicateBoolClientRpc(chance);
         }
     }
